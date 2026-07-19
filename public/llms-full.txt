@@ -2,13 +2,13 @@
 
 מספרה בתל אביב לגבר שלא מתפשר על הסטייל שלו! 100% דיוק ועמידה בזמנים ✔︎ חווית שירות אישית ✔︎ הגעתם למקום הנכון
 
-Source: https://-bfe32df2.zappy5.app
+Source: https://example.com
 
 ---
 
 ## תספורת גברים בתל אביב — מנטור ברבר שופ
 
-URL: https://-bfe32df2.zappy5.app
+URL: https://example.com
 Description: מחפש מספרה בתל אביב לגבר שלא מתפשר על הסטייל? קבל חווית שירות אישית, 100% דיוק ועמידה בזמנים. הגעת למקום הנכון, קבע תור עוד היום.
 
 תספורת גברים בתל אביב — מנטור ברבר שופ
@@ -663,7 +663,7 @@ join mentor team
 
 ## תספורת גברים בתל אביב — מנטור ברבר שופ
 
-URL: https://-bfe32df2.zappy5.app
+URL: https://example.com
 Description: מחפש מספרה בתל אביב לגבר שלא מתפשר על הסטייל? קבל חווית שירות אישית, 100% דיוק ועמידה בזמנים. הגעת למקום הנכון, קבע תור עוד היום.
 
 תספורת גברים בתל אביב — מנטור ברבר שופ
@@ -1318,7 +1318,7 @@ join mentor team
 
 ## הצהרת נגישות למספרת גברים — מנטור ברבר שופ
 
-URL: https://-bfe32df2.zappy5.app/accessibility-statement
+URL: https://example.com/accessibility-statement
 Description: הצהרת הנגישות של מנטור ברבר שופ, מספרת גברים בתל אביב. אנו מחויבים לשירות מותאם לכולם, תוך הקפדה על חוויה נגישה ומדויקת. לפרטים לחצו.
 
 הצהרת נגישות למספרת גברים — מנטור ברבר שופ
@@ -1636,7 +1636,7 @@ Designed by SHONJAN.COM
 
 ## מדיניות פרטיות למספרת גברים — מנטור ברבר שופ
 
-URL: https://-bfe32df2.zappy5.app/privacy-policy
+URL: https://example.com/privacy-policy
 Description: קרא את מדיניות הפרטיות של מנטור ברבר שופ. אנו שומרים על המידע שלך בקפדנות, בדיוק כמו על התספורת שלך. הגן על פרטיותך עוד היום.
 
 מדיניות פרטיות למספרת גברים — מנטור ברבר שופ
@@ -1854,7 +1854,7 @@ Description: קרא את מדיניות הפרטיות של מנטור ברבר 
 
 ## מדיניות פרטיות
 
-URL: https://-bfe32df2.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2118,7 +2118,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-bfe32df2.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2391,7 +2391,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-bfe32df2.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

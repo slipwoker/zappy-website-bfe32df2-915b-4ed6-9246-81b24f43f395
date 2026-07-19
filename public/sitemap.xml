@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://-bfe32df2.zappy5.app</loc>
+    <loc>https://example.com</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://-bfe32df2.zappy5.app</loc>
+    <loc>https://example.com</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://-bfe32df2.zappy5.app/accessibility-statement</loc>
+    <loc>https://example.com/accessibility-statement</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-bfe32df2.zappy5.app/privacy-policy</loc>
+    <loc>https://example.com/privacy-policy</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-bfe32df2.zappy5.app/privacy</loc>
+    <loc>https://example.com/privacy</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://-bfe32df2.zappy5.app/terms</loc>
+    <loc>https://example.com/terms</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://-bfe32df2.zappy5.app/accessibility</loc>
+    <loc>https://example.com/accessibility</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
